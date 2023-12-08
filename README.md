@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/backupstransyyy" target="blank"><img src="https://img.shields.io/twitter/follow/backupstransyyy?logo=twitter&style=for-the-badge" alt="backupstransyyy" /></a> </p>
 
-- 🔭 I’m currently working on [Sheet-Linker](https://github.com/Stransyyy/Sheet-Linker)
+- 🔭 I’m currently working on [Task-Manager](https://github.com/Stransyyy/Task-Manager)
 
 - 🌱 I’m currently learning **the diverse world of programming itself**
 
