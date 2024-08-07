@@ -1,5 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=478D57&center=true&vCenter=true&repeat=false&width=435&lines=%5B%F0%9F%8C%B5%5D+Hello%2C+I'm+Stransyyy!)]
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=478D57&center=true&vCenter=true&repeat=false&width=435&lines=%5B%F0%9F%8C%B5%5D+Hello%2C+I'm+Stransyyy!)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate backend developer</h3>
+
+</div>
 
 <p align="left"> <a href="https://twitter.com/backupstransyyy" target="blank"><img src="https://img.shields.io/twitter/follow/backupstransyyy?logo=twitter&style=for-the-badge" alt="backupstransyyy" /></a> </p>
 
