@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate backend developer</h3>
 
-</div>
+
 
 <p align="left"> <a href="https://twitter.com/backupstransyyy" target="blank"><img src="https://img.shields.io/twitter/follow/backupstransyyy?logo=twitter&style=for-the-badge" alt="backupstransyyy" /></a> </p>
 
@@ -26,3 +26,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stransyyy&show_icons=true&locale=en" alt="stransyyy" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stransyyy&" alt="stransyyy" /></p>
+</div>
